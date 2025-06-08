@@ -35,3 +35,22 @@ img {
   font-size: 0.9rem;
   color: #555;
 }
+.download {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.download-btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #0f4c75;
+  color: white;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.download-btn:hover {
+  background-color: #3282b8;
+}
